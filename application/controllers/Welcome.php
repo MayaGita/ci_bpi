@@ -22,13 +22,4 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('welcome_message');
 	}
-	
-	public function lihat_info() {
-echo "<head><title>Praktik CodeIgniter 2020</title></head>";
-echo "<h1>Praktik CodeIgniter 2020</h1>";
-echo "<h3>Presented by RPL BPI</h3>";
-echo "CodeIgniter merupakan salah satu <i>web framework</i> PHP yang sangat mudah dan
-menarik.";
-echo "Saya menghadiri ini untuk mulai mengenal dan mempelajari CodeIgniter";
-}
 }
