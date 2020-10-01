@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Kalkulator CI</title>
+<title>Kalkulator Code igniter</title>
 </head>
 <body>
 <h1>Kalkulator CI</h1>
